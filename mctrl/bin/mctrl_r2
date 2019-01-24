@@ -1,0 +1,4 @@
+killall mctrl_r3 mctrl
+./mctrl_r3 &> /dev/null &
+#./kill_sapp_by_mem.sh &> /dev/null &
+
